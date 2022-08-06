@@ -47,7 +47,7 @@ Download the model from **[his repository](https://github.com/PINTO0309/PINTO_mo
  python webcam_line_detection.py
  ``` 
  
- * **Video** Line Detection: https://youtu.be/AKdwQwBCaTk
+ * **Video Line Detection: https://youtu.be/AKdwQwBCaTk**
  ```
  python video_line_detection.py
  ``` 
