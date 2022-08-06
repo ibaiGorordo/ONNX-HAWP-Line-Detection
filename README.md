@@ -33,7 +33,7 @@ pip install git+https://github.com/zizo-pro/pafy@b8976f22c19e4ab5515cacbfae0a397
 
 # ONNX model 
 The original model was converted to different formats (including .onnx) by [PINTO0309](https://github.com/PINTO0309). 
-Download the model from **[his repository](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/108_HAWP)** using the download script and save them into the **[models](https://github.com/ibaiGorordo/ONNX-HAWP-Line-Detection/tree/main/models)** folder"
+Download the model from **[his repository](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/108_HAWP)** using the download script and save them into the **[models](https://github.com/ibaiGorordo/ONNX-HAWP-Line-Detection/tree/main/models)** folder
 
 # Examples
 
