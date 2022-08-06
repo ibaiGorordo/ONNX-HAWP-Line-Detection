@@ -4,7 +4,7 @@
 
 ![!ONNX HAWP Line Detection](https://github.com/ibaiGorordo/ONNX-HAWP-Line-Detection/blob/main/doc/img/output.jpg)
 
-*Original image: https://commons.wikimedia.org/wiki/File:Bedroom_Mitcham.jpg
+*Original image: https://commons.wikimedia.org/wiki/File:Bedroom_Mitcham.jpg*
 
 # Requirements
 
