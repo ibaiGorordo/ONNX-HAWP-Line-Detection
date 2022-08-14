@@ -67,8 +67,8 @@ class HAWP:
         lines = lines[scores > self.threshold, :]
         scores = scores[scores > self.threshold]
 
-        lines[:, 0::2] *= self.img_width / self.input_width
-        lines[:, 1::2] *= self.img_height / self.input_height
+        lines[:, 0::2] *= self.img_width
+        lines[:, 1::2] *= self.img_height
         lines = np.round(lines).astype(int)
 
         return lines, scores
